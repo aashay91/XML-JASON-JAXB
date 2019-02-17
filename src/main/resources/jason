@@ -1,0 +1,13 @@
+[ {
+  "patientId" : 1234,
+  "name" : "John Smith",
+  "state" : "MI",
+  "sex" : "Male",
+  "age" : 56
+}, {
+  "patientId" : 1235,
+  "name" : "Jane Smith",
+  "state" : "OH",
+  "sex" : "Female",
+  "age" : 46
+} ]
